@@ -4,7 +4,7 @@ Tindog is a fun, modern landing page inspired by Tinder — but designed for dog
 
 ⸻
 
-🔗 **Live Demo:** https://jazzblackartist.github.io/Tindog/
+🔗 **Live Demo:** https://jasmineblackdev.github.io/Tindog/
 
 ⸻
 
